@@ -15,7 +15,7 @@ Choose a directory where your Google Drive credentials will be stored.
 Example:
 
 ```bash
-export GDRIVE_CREDS_DIR="/Applications/SAP/mcp-gdrive/creds"
+export GDRIVE_CREDS_DIR="/Applications/mcp-gdrive/creds"
 ```
 
 Make sure the directory exists:
